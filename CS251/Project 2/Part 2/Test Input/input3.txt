@@ -1,0 +1,24 @@
+nodedepth cs251
+i cs180 1
+i cs182 2
+i cs240 3
+i cs250 4
+i cs251 5
+i cs252 6
+i cs354 7
+i cs355 8
+i cs422 9
+i cs352 10
+i chm579 11
+i chm673 12
+i cs381 13
+i cs426 14
+i cs489 15
+i __graduate__ 2020
+size
+treeheight
+nodedepth __graduate__
+nodedepth chm673
+nodedepth cs489
+search cs426
+iot
