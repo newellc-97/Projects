@@ -1,0 +1,15 @@
+Height of tree: 2
+Depth of Isla: 0
+Depth of Maple: 1
+Depth of Thomas: 2
+Cooper not in tree
+Score of Cooper: 50
+Depth of Cooper: 1
+Size of tree: 4
+Begin in order traversal
+Cooper
+Isla
+Maple
+Thomas
+In order traversal complete
+Tree is valid
