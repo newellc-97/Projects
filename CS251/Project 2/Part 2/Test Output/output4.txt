@@ -1,0 +1,84 @@
+Size of tree: 0
+DeRue not in tree
+Tree is empty
+Begin in order traversal
+In order traversal complete
+Jordan not in tree
+Height of tree: 10
+Depth of Sifakis: 6
+Depth of Ritchie: 5
+Depth of Berners-Lee: 8
+Score of Dijkstra: 1972
+Begin in order traversal
+Adleman
+Allen
+Bachman
+Backus
+Bengio
+Berners-Lee
+Blum
+Brooks
+Cerf
+Clarke
+Cocke
+Codd
+Cook
+Corbato
+Dahl
+Diffie
+Dijkstra
+Emerson
+Engelbart
+Feigenbaum
+Floyd
+Goldwasser
+Gray
+Hamming
+Hartmanis
+Hellman
+Hennessy
+Hinton
+Hoare
+Hopcroft
+Iverson
+Kahan
+Kahn
+Karp
+Kay
+Knuth
+Lamport
+Lampson
+LeCun
+Liskov
+McCarthy
+Micali
+Milner
+Minsky
+Naur
+Newell
+Nygaard
+Patterson
+Pearl
+Perlis
+Pnuelli
+Rabin
+Reddy
+Ritchie
+Rivest
+Scott
+Shamir
+Sifakis
+Simon
+Stearns
+Stonebraker
+Sutherland
+Tarjan
+Thacker
+Thompson
+Valiant
+Wilkes
+Wilkinson
+Wirth
+Yao
+In order traversal complete
+Size of tree: 70

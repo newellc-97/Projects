@@ -1,0 +1,25 @@
+cs251 not in tree
+Size of tree: 16
+Height of tree: 10
+Depth of __graduate__: 2
+Depth of chm673: 2
+Depth of cs489: 10
+Score of cs426: 14
+Begin in order traversal
+__graduate__
+chm579
+chm673
+cs180
+cs182
+cs240
+cs250
+cs251
+cs252
+cs352
+cs354
+cs355
+cs381
+cs422
+cs426
+cs489
+In order traversal complete

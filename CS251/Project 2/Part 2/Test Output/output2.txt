@@ -1,0 +1,61 @@
+Size of tree: 0
+Height of tree: 4
+Depth of riven: 0
+Score of riven: 26595
+Depth of riven: 0
+Score of riven: 99999999
+urgot not in tree
+Size of tree: 19
+Size of tree: 27
+Size of tree: 39
+Size of tree: 45
+Begin in order traversal
+aatrox
+akali
+camille
+cho'gath
+darius
+fiora
+gangplank
+garen
+gnar
+illaoi
+irelia
+jax
+jayce
+karma
+kayle
+kennen
+kled
+malphite
+maokai
+mordekaiser
+nasus
+neeko
+olaf
+ornn
+pantheon
+poppy
+pyke
+quinn
+renekton
+rengar
+riven
+rumble
+ryze
+shen
+singed
+sion
+sylas
+teemo
+tryndamere
+urgot
+vayne
+vladimir
+volibear
+yasuo
+yorick
+In order traversal complete
+Score of riven: 99999999
+kai'sa not in tree
+Height of tree: 8
