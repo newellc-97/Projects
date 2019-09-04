@@ -1,0 +1,83 @@
+size
+search DeRue
+treeheight
+iot
+i Perlis 1966
+i Wilkes 1967
+i Hamming 1968
+i Minsky 1969
+i Wilkinson 1970
+i McCarthy 1971
+i Dijkstra 1972
+i Bachman 1973
+i Knuth 1974
+i Newell 1975
+i Simon 1975
+i Rabin 1976
+i Scott 1976
+i Backus 1977
+i Floyd 1978
+i Iverson 1979
+i Hoare 1980
+i Codd 1981
+i Cook 1982
+i Thompson 1983
+i Ritchie 1983
+i Wirth 1984
+i Karp 1985
+i Hopcroft 1986
+i Tarjan 1986
+i Cocke 1987
+i Sutherland 1988
+i Kahan 1989
+i Corbato 1990
+i Milner 1991
+i Lampson 1992
+i Hartmanis 1993
+i Stearns 1993
+i Feigenbaum 1994
+i Reddy 1994
+i Blum 1995
+i Pnuelli 1996
+i Engelbart 1997
+i Gray 1998
+i Brooks 1999
+i Yao 2000
+i Dahl 2001
+i Nygaard 2001
+i Rivest 2002
+i Shamir 2002
+i Adleman 2002
+i Kay 2003
+i Cerf 2004
+i Kahn 2004
+i Naur 2005
+i Allen 2006
+i Clarke 2007
+i Emerson 2007
+i Sifakis 2007
+i Liskov 2008
+i Thacker 2009
+i Valiant 2010
+i Pearl 2011
+i Micali 2012
+i Goldwasser 2012
+i Lamport 2013
+i Stonebraker 2014
+i Hellman 2015
+i Diffie 2015
+i Berners-Lee 2016
+i Hennessy 2017
+i Patterson 2017
+i Bengio 2018
+i Hinton 2018
+i LeCun 2018
+nodedepth Jordan
+treeheight
+nodedepth Sifakis
+nodedepth Ritchie
+nodedepth Berners-Lee
+search Dijkstra
+iot
+size
+validate

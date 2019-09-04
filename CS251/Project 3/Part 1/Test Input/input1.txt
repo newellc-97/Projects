@@ -1,0 +1,14 @@
+i Isla 157
+i Maple 7
+i Thomas 0
+treeheight
+nodedepth Isla
+nodedepth Maple
+nodedepth Thomas
+search Cooper
+i Cooper 50
+search Cooper
+nodedepth Cooper
+size
+iot
+validate
